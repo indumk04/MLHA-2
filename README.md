@@ -1,0 +1,1 @@
+NAME : Indu Mathi Kakarla, ID : 700772819. Here we determined the concepts of accuracy , precison and recall and defined the f1 score. Building the confusion matrices and analyzing the knn algorithms 
